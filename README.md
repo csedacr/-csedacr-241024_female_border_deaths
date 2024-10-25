@@ -14,14 +14,15 @@ It also contains a line graph showing the number of remains found by year.
 
 # **Methodology**
 
-- The notebook female_deaths.ipynb contains a filtered version of the "Arizona OpenGIS Initiative for Deceased Migrants" to only show the "ML Number" , "Reporting Date" and "Sex”
+- The notebook female_deaths.ipynb contains a filtered version of the "Arizona OpenGIS Initiative for Deceased Migrants" to only show the "ML Number" , "Reporting Date" and "Sex”.
+- Notebook also contains the your_graph later renamed as "female_graph.jpg" in the output, and an empty png of a failed code kept for transparency's sake.
 - To do this you first have to upload the dataset and modify the date to only show the year
 - Then filter it and create columns for "ML Number" , "Reporting Date" and "Sex" 
 - Save it to a new csv file
 - Then you have to graph the data in that new csv file on a line graph from 1981 to 2024 and export it as jpg
 
 # **Output**
-The new csv file female_deaths.csv and the graph 
+The new csv file female_deaths.csv and the female_graph.jpg, plus an empty png of a failed code kept for transparency's sake.
 
 # **Running the analysis yourself**
 You can run the analysis yourself with the following installed on your computer:
