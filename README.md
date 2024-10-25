@@ -2,7 +2,7 @@
 
 # **Description**
 
-This repository contains a dataset, code, and findings that support the preliminary analysis found in the draft "Female Deaths May Be Increasing in the Arizona Borderlands" for the Advanced Data Journalism course at CUNY Grad School of Journalism. The raw dataset "Arizona OpenGIS Initiative for Deceased Migrants" can be obtained from https://www.humaneborders.org/migrant-death-mapping. It is the result of data compiled by the nonprofit Humane Borders and the Pima County Office of the Medical Examiner from 1981 to October 2024.
+This repository contains a dataset, code, and findings that support the preliminary analysis found in the draft "Female Deaths May Be Decreasing in the Arizona Borderlands" for the Advanced Data Journalism course at CUNY Grad School of Journalism. The raw dataset "Arizona OpenGIS Initiative for Deceased Migrants" can be obtained from https://www.humaneborders.org/migrant-death-mapping. It is the result of data compiled by the nonprofit Humane Borders and the Pima County Office of the Medical Examiner from 1981 to October 2024.
 
 # **Data**
 
